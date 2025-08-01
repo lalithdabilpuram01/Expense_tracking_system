@@ -1,0 +1,569 @@
+2025-06-10 00:26:19,402 - db_helper - INFO - fetch_expense_by_date called with 2024-08-20
+2025-06-10 00:32:28,143 - db_helper - INFO - fetch_expense_by_date called with 2024-08-20
+2025-06-10 00:32:35,288 - db_helper - INFO - fetch_expense_by_date called with 2024-08-20
+2025-06-10 15:34:08,229 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 15:34:08,229 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 15:34:08,254 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 15:34:08,254 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 15:55:30,123 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 15:55:30,123 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 16:34:31,745 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 16:34:31,746 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 16:34:40,199 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 16:34:40,199 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 16:35:47,063 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 16:35:47,064 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 16:43:32,035 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 16:43:32,035 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 16:44:13,068 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 16:44:13,068 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 16:46:29,423 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 16:46:29,423 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 16:52:53,742 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 16:52:53,743 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 16:53:14,351 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 16:53:14,351 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:03:16,148 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:03:16,148 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:03:55,044 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:03:55,044 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:04:07,546 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:04:07,546 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:04:20,339 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:04:20,339 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:07:16,857 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:07:16,858 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:07:28,684 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:07:28,685 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:10:03,800 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:10:03,800 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:10:52,684 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:10:52,684 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:11:19,034 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:11:19,035 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:13:19,016 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:13:19,017 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:13:36,051 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-10 17:13:36,051 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-10 17:13:44,549 - server - INFO -  get_expenses is called for 2024-08-23
+2025-06-10 17:13:44,550 - db_helper - INFO - fetch_expense_by_date called with 2024-08-23
+2025-06-10 17:13:48,603 - server - INFO -  get_expenses is called for 2024-08-08
+2025-06-10 17:13:48,603 - db_helper - INFO - fetch_expense_by_date called with 2024-08-08
+2025-06-10 17:13:51,716 - server - INFO -  get_expenses is called for 2024-08-07
+2025-06-10 17:13:51,717 - db_helper - INFO - fetch_expense_by_date called with 2024-08-07
+2025-06-10 17:13:54,465 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:13:54,466 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:18:00,980 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:18:00,982 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:18:09,233 - server - INFO -  get_expenses is called for 2024-08-07
+2025-06-10 17:18:09,233 - db_helper - INFO - fetch_expense_by_date called with 2024-08-07
+2025-06-10 17:18:50,699 - server - INFO -  get_expenses is called for 2024-08-07
+2025-06-10 17:18:50,699 - db_helper - INFO - fetch_expense_by_date called with 2024-08-07
+2025-06-10 17:21:02,982 - server - INFO -  get_expenses is called for 2024-08-07
+2025-06-10 17:21:02,982 - db_helper - INFO - fetch_expense_by_date called with 2024-08-07
+2025-06-10 17:21:14,361 - server - INFO -  get_expenses is called for 2024-08-07
+2025-06-10 17:21:14,361 - db_helper - INFO - fetch_expense_by_date called with 2024-08-07
+2025-06-10 17:21:23,529 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:21:23,529 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:27:33,478 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:27:33,479 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:27:58,559 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:27:58,559 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:28:50,099 - server - INFO -  get_expenses is called for 2024-08-07
+2025-06-10 17:28:50,099 - db_helper - INFO - fetch_expense_by_date called with 2024-08-07
+2025-06-10 17:29:13,190 - server - INFO -  get_expenses is called for 2024-08-07
+2025-06-10 17:29:13,190 - db_helper - INFO - fetch_expense_by_date called with 2024-08-07
+2025-06-10 17:29:42,841 - server - INFO -  get_expenses is called for 2024-08-07
+2025-06-10 17:29:42,841 - db_helper - INFO - fetch_expense_by_date called with 2024-08-07
+2025-06-10 17:30:45,508 - server - INFO -  get_expenses is called for 2024-08-07
+2025-06-10 17:30:45,508 - db_helper - INFO - fetch_expense_by_date called with 2024-08-07
+2025-06-10 17:30:48,404 - server - INFO -  get_expenses is called for 2024-08-07
+2025-06-10 17:30:48,405 - db_helper - INFO - fetch_expense_by_date called with 2024-08-07
+2025-06-10 17:30:48,428 - server - INFO -  add_or_update_expenses is called for 2024-08-07
+2025-06-10 17:30:48,428 - db_helper - INFO - delete_expense_for_date called with 2024-08-07
+2025-06-10 17:30:48,434 - db_helper - INFO - insert_expense called with 2024-08-07
+2025-06-10 17:30:48,442 - db_helper - INFO - insert_expense called with 2024-08-07
+2025-06-10 17:34:44,695 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:34:44,696 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:34:52,544 - server - INFO -  get_expenses is called for 2024-07-04
+2025-06-10 17:34:52,544 - db_helper - INFO - fetch_expense_by_date called with 2024-07-04
+2025-06-10 17:34:58,008 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-10 17:34:58,009 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-10 17:35:12,359 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:35:12,359 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:35:37,475 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-10 17:35:37,476 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-10 17:36:16,005 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:36:16,005 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-10 17:39:14,003 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-10 17:39:14,003 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 11:32:02,697 - db_helper - INFO - fetch_expense_by_date called with 2024-08-20
+2025-06-12 11:32:34,426 - db_helper - INFO - fetch_expense_by_date called with 2024-08-20
+2025-06-12 11:32:34,466 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 11:33:09,719 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 12:08:29,472 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 12:08:29,473 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:16:08,629 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:16:08,629 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:16:15,170 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:16:15,170 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:16:15,203 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:16:15,204 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 22:16:18,278 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:16:18,278 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:16:18,301 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:16:18,301 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 22:16:28,799 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:16:28,800 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:16:29,877 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:16:29,877 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:16:29,910 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-02
+2025-06-12 22:16:29,910 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-02
+2025-06-12 22:27:17,724 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:27:17,724 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:27:22,818 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:27:22,819 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:27:22,848 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:27:22,848 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 22:27:57,332 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:27:57,332 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:27:59,498 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:27:59,499 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:27:59,527 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:27:59,527 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 22:27:59,780 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:27:59,780 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:28:24,433 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:28:24,433 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:28:25,729 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:28:25,729 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:28:25,764 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-02
+2025-06-12 22:28:25,764 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-02
+2025-06-12 22:28:49,875 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:28:49,875 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:29:03,620 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:29:03,620 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:29:03,642 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-02
+2025-06-12 22:29:03,643 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-02
+2025-06-12 22:29:25,944 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:29:25,944 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:29:27,994 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:29:27,994 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:29:28,026 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:29:28,026 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 22:29:38,237 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:29:38,237 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:29:39,478 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:29:39,478 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:29:39,513 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-02
+2025-06-12 22:29:39,513 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-02
+2025-06-12 22:35:03,790 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:35:03,790 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:35:05,979 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:35:05,979 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:35:06,016 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:35:06,016 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 22:35:58,361 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:35:58,361 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:35:58,389 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:35:58,389 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 22:37:47,813 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:37:47,814 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:37:47,838 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:37:47,838 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 22:39:24,946 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:39:24,947 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:39:24,975 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:39:24,976 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 22:39:40,979 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:39:40,979 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:39:41,015 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:39:41,015 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 22:39:52,526 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:39:52,527 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:39:52,560 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:39:52,560 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 22:40:49,195 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:40:49,196 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:40:50,305 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:40:50,305 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:40:50,335 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:40:50,336 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:42:57,856 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:42:57,856 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:42:57,879 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:42:57,879 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:43:16,673 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:43:16,673 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:43:16,697 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:43:16,697 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:43:19,021 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:43:19,021 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:43:19,055 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:43:19,055 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:45:10,142 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:45:10,142 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:45:10,170 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:45:10,170 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:45:41,871 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:45:41,871 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:45:41,900 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:45:41,900 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:46:09,424 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:46:09,424 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:46:09,451 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:46:09,451 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:46:11,551 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:46:11,552 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:46:11,583 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:46:11,583 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:48:23,709 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:48:23,709 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:48:23,738 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:48:23,738 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:48:45,009 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:48:45,009 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:48:45,033 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:48:45,033 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:48:48,254 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:48:48,254 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:48:48,289 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:48:48,289 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:49:16,772 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:49:16,772 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:49:16,797 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:49:16,797 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:50:12,375 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:50:12,375 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:50:12,401 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:50:12,401 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:50:41,001 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:50:41,002 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:50:41,032 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:50:41,032 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:51:49,528 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:51:49,528 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:51:49,563 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:51:49,563 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:51:58,925 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:51:58,926 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:51:58,957 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-05
+2025-06-12 22:51:58,957 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-05
+2025-06-12 22:52:29,469 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:52:29,470 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:52:45,676 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:52:45,676 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:52:50,487 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 22:52:50,487 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 22:52:50,518 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 22:52:50,518 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 23:05:33,514 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 23:05:33,515 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 23:05:35,891 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 23:05:35,891 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 23:05:35,930 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-02
+2025-06-12 23:05:35,930 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-02
+2025-06-12 23:09:07,801 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:09:07,801 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:12:24,418 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 23:12:24,419 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 23:13:37,436 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:13:37,436 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:13:51,491 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:13:51,491 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:15:23,798 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:15:23,798 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:16:54,875 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:16:54,877 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:16:54,900 - server - INFO -  add_or_update_expenses is called for 2024-08-02
+2025-06-12 23:16:54,900 - db_helper - INFO - delete_expense_for_date called with 2024-08-02
+2025-06-12 23:16:54,909 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:16:54,916 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:16:54,926 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:16:54,932 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:16:54,939 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:16:54,945 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:16:58,631 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:16:58,631 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:16:58,655 - server - INFO -  add_or_update_expenses is called for 2024-08-02
+2025-06-12 23:16:58,655 - db_helper - INFO - delete_expense_for_date called with 2024-08-02
+2025-06-12 23:16:58,663 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:16:58,670 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:16:58,675 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:16:58,680 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:16:58,687 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:16:58,693 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:17:04,404 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:17:04,404 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:17:06,478 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:17:06,478 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:17:07,597 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:17:07,598 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:17:07,629 - server - INFO -  analytical_data is called from 2024-08-02 to 2024-08-02
+2025-06-12 23:17:07,629 - db_helper - INFO - fetch_expense_summary is called with 2024-08-02 and 2024-08-02
+2025-06-12 23:21:28,919 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 23:21:28,920 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 23:21:37,859 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 23:21:37,859 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 23:21:37,886 - server - INFO -  add_or_update_expenses is called for 2024-08-01
+2025-06-12 23:21:37,886 - db_helper - INFO - delete_expense_for_date called with 2024-08-01
+2025-06-12 23:21:37,894 - db_helper - INFO - insert_expense called with 2024-08-01
+2025-06-12 23:21:37,899 - db_helper - INFO - insert_expense called with 2024-08-01
+2025-06-12 23:21:37,905 - db_helper - INFO - insert_expense called with 2024-08-01
+2025-06-12 23:21:37,910 - db_helper - INFO - insert_expense called with 2024-08-01
+2025-06-12 23:21:46,614 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 23:21:46,614 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 23:21:50,490 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 23:21:50,490 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 23:21:52,539 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 23:21:52,539 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 23:21:52,574 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-08
+2025-06-12 23:21:52,574 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-12 23:28:56,115 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 23:28:56,116 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 23:37:37,103 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-12 23:37:37,104 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-12 23:53:40,329 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:53:40,330 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:53:48,792 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:53:48,792 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:53:48,821 - server - INFO -  add_or_update_expenses is called for 2024-08-02
+2025-06-12 23:53:48,821 - db_helper - INFO - delete_expense_for_date called with 2024-08-02
+2025-06-12 23:53:48,828 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:53:48,834 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:53:48,841 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:53:48,855 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:53:48,863 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:53:48,870 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-06-12 23:54:01,831 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:54:01,832 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:54:04,174 - server - INFO -  get_expenses is called for 2024-08-02
+2025-06-12 23:54:04,174 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-06-12 23:54:04,205 - server - INFO -  analytical_data is called from 2024-08-01 to 2024-08-02
+2025-06-12 23:54:04,205 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-02
+2025-06-14 20:14:20,563 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2024-09-05
+2025-06-14 20:14:44,205 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2024-09-05
+2025-06-14 21:00:54,667 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2024-09-05
+2025-06-14 21:00:54,668 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2024-09-05
+2025-06-14 21:20:14,455 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:20:14,456 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:20:18,705 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:20:18,705 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:20:28,434 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:20:28,434 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:20:28,465 - server - INFO -  analytical_data_by_category is called from 2024-08-01 to 2024-08-08
+2025-06-14 21:20:28,465 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-14 21:20:33,132 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:20:33,132 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:21:13,040 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:21:13,040 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:21:13,067 - server - INFO -  analytical_data_by_month is called from 2025-06-14 to 2025-06-14
+2025-06-14 21:21:13,067 - db_helper - INFO - fetch_data_by_month is called with 2025-06-14 and 2025-06-14
+2025-06-14 21:21:40,972 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:21:40,973 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:21:51,124 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:21:51,125 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:21:52,619 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:21:52,619 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:21:52,650 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-08-09
+2025-06-14 21:21:52,650 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-08-09
+2025-06-14 21:22:45,015 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:22:45,015 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:22:45,047 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-08-09
+2025-06-14 21:22:45,048 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-08-09
+2025-06-14 21:22:47,307 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:22:47,307 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:22:47,337 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-08-09
+2025-06-14 21:22:47,337 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-08-09
+2025-06-14 21:23:22,757 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:23:22,757 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:23:24,034 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:23:24,034 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:23:24,065 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:23:24,065 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:34:40,665 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:34:40,666 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:34:40,691 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:34:40,691 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:36:14,940 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:36:14,941 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:36:14,964 - server - INFO -  analytical_data_by_category is called from 2024-08-01 to 2024-08-08
+2025-06-14 21:36:14,964 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-14 21:39:11,755 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:39:11,755 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:39:11,775 - server - INFO -  analytical_data_by_category is called from 2024-08-01 to 2024-08-08
+2025-06-14 21:39:11,775 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-14 21:39:18,966 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:39:18,966 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:39:18,997 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:39:18,998 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:40:40,200 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:40:40,200 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:40:40,226 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:40:40,226 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:40:41,334 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:40:41,334 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:40:41,363 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:40:41,363 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:44:20,362 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:44:20,362 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:44:20,398 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:44:20,398 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:45:34,349 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:45:34,349 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:45:34,372 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:45:34,372 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:45:36,580 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:45:36,580 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:45:36,613 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:45:36,613 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:48:35,927 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:48:35,927 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:48:35,953 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:48:35,953 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:49:08,485 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:49:08,485 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:49:08,507 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:49:08,507 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:49:22,463 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:49:22,463 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:49:22,491 - server - INFO -  analytical_data_by_category is called from 2024-08-01 to 2024-08-08
+2025-06-14 21:49:22,491 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-14 21:50:02,731 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:50:02,731 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:50:02,758 - server - INFO -  analytical_data_by_category is called from 2024-08-01 to 2024-08-08
+2025-06-14 21:50:02,758 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-06-14 21:50:16,262 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:50:16,263 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:50:16,292 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:50:16,292 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:51:41,802 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:51:41,802 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:51:41,827 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:51:41,827 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:52:10,431 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:52:10,432 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:52:10,457 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:52:10,457 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:52:44,276 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:52:44,277 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:52:44,305 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-09-05
+2025-06-14 21:52:44,305 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-09-05
+2025-06-14 21:57:48,036 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:57:48,037 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:57:51,506 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:57:51,506 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:57:51,539 - server - INFO -  analytical_data_by_month is called from 2025-06-14 to 2025-06-14
+2025-06-14 21:57:51,539 - db_helper - INFO - fetch_data_by_month is called with 2025-06-14 and 2025-06-14
+2025-06-14 21:58:03,992 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:58:03,992 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:58:08,622 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:58:08,623 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:58:08,653 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-06-14
+2025-06-14 21:58:08,654 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-06-14
+2025-06-14 21:59:12,830 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 21:59:12,831 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 21:59:12,853 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-06-14
+2025-06-14 21:59:12,853 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-06-14
+2025-06-14 22:24:04,087 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 22:24:04,087 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 22:38:08,714 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 22:38:08,714 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-06-14 22:54:00,171 - server - INFO -  get_expenses is called for 2024-08-01
+2025-06-14 22:54:00,172 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:46:07,902 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:46:07,902 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:46:20,382 - server - INFO -  get_expenses is called for 2024-08-09
+2025-07-07 01:46:20,382 - db_helper - INFO - fetch_expense_by_date called with 2024-08-09
+2025-07-07 01:46:31,678 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:46:31,678 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:46:50,158 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:46:50,160 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:46:50,190 - server - INFO -  analytical_data_by_category is called from 2024-08-01 to 2024-08-08
+2025-07-07 01:46:50,190 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-07-07 01:47:53,192 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:47:53,192 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:47:53,223 - server - INFO -  analytical_data_by_month is called from 2025-07-07 to 2025-07-07
+2025-07-07 01:47:53,223 - db_helper - INFO - fetch_data_by_month is called with 2025-07-07 and 2025-07-07
+2025-07-07 01:48:08,079 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:08,079 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:09,518 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:09,518 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:09,551 - server - INFO -  analytical_data_by_month is called from 2025-07-07 to 2025-07-31
+2025-07-07 01:48:09,551 - db_helper - INFO - fetch_data_by_month is called with 2025-07-07 and 2025-07-31
+2025-07-07 01:48:12,435 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:12,435 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:18,524 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:18,525 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:20,356 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:20,357 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:20,393 - server - INFO -  analytical_data_by_month is called from 2025-07-01 to 2025-07-02
+2025-07-07 01:48:20,393 - db_helper - INFO - fetch_data_by_month is called with 2025-07-01 and 2025-07-02
+2025-07-07 01:48:22,956 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:22,956 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:24,352 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:24,352 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:24,395 - server - INFO -  analytical_data_by_month is called from 2025-07-01 to 2025-07-01
+2025-07-07 01:48:24,395 - db_helper - INFO - fetch_data_by_month is called with 2025-07-01 and 2025-07-01
+2025-07-07 01:48:34,148 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:34,148 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:39,000 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:39,000 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:43,928 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:43,928 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:52,510 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:52,510 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:53,388 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-07 01:48:53,389 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-07 01:48:53,421 - server - INFO -  analytical_data_by_month is called from 2024-08-01 to 2025-07-01
+2025-07-07 01:48:53,421 - db_helper - INFO - fetch_data_by_month is called with 2024-08-01 and 2025-07-01
+2025-07-07 01:49:22,858 - server - INFO -  get_expenses is called for 2025-07-07
+2025-07-07 01:49:22,859 - db_helper - INFO - fetch_expense_by_date called with 2025-07-07
+2025-07-07 01:50:33,748 - server - INFO -  get_expenses is called for 2025-07-07
+2025-07-07 01:50:33,748 - db_helper - INFO - fetch_expense_by_date called with 2025-07-07
+2025-07-07 01:50:33,775 - server - INFO -  add_or_update_expenses is called for 2025-07-07
+2025-07-07 01:50:33,776 - db_helper - INFO - delete_expense_for_date called with 2025-07-07
+2025-07-07 01:50:33,784 - db_helper - INFO - insert_expense called with 2025-07-07
+2025-07-07 01:50:33,791 - db_helper - INFO - insert_expense called with 2025-07-07
+2025-07-31 17:17:41,833 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-31 17:17:41,833 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-31 17:18:31,562 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-31 17:18:31,563 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-31 18:07:54,328 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-31 18:07:54,329 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-07-31 23:59:47,704 - server - INFO -  get_expenses is called for 2024-08-01
+2025-07-31 23:59:47,704 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-08-01 00:00:14,579 - server - INFO -  get_expenses is called for 2024-08-01
+2025-08-01 00:00:14,579 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-08-01 00:00:51,997 - server - INFO -  get_expenses is called for 2024-08-01
+2025-08-01 00:00:51,998 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-08-01 00:01:08,413 - server - INFO -  get_expenses is called for 2024-08-01
+2025-08-01 00:01:08,413 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-08-01 00:01:08,452 - server - INFO -  analytical_data_by_category is called from 2024-08-01 to 2024-08-08
+2025-08-01 00:01:08,452 - db_helper - INFO - fetch_expense_summary is called with 2024-08-01 and 2024-08-08
+2025-08-01 00:01:22,644 - server - INFO -  get_expenses is called for 2024-08-01
+2025-08-01 00:01:22,644 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-08-01 00:01:27,251 - server - INFO -  get_expenses is called for 2024-08-02
+2025-08-01 00:01:27,251 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-08-01 00:01:59,884 - server - INFO -  get_expenses is called for 2024-08-02
+2025-08-01 00:01:59,885 - db_helper - INFO - fetch_expense_by_date called with 2024-08-02
+2025-08-01 00:01:59,935 - server - INFO -  add_or_update_expenses is called for 2024-08-02
+2025-08-01 00:01:59,935 - db_helper - INFO - delete_expense_for_date called with 2024-08-02
+2025-08-01 00:01:59,944 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-08-01 00:01:59,950 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-08-01 00:01:59,956 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-08-01 00:01:59,963 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-08-01 00:01:59,969 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-08-01 00:01:59,974 - db_helper - INFO - insert_expense called with 2024-08-02
+2025-08-01 00:02:06,204 - server - INFO -  get_expenses is called for 2024-08-03
+2025-08-01 00:02:06,205 - db_helper - INFO - fetch_expense_by_date called with 2024-08-03
+2025-08-01 00:02:51,950 - server - INFO -  get_expenses is called for 2024-08-01
+2025-08-01 00:02:51,950 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-08-01 00:02:53,630 - server - INFO -  get_expenses is called for 2024-08-01
+2025-08-01 00:02:53,630 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-08-01 00:03:43,819 - server - INFO -  get_expenses is called for 2024-08-01
+2025-08-01 00:03:43,820 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-08-01 00:07:03,849 - server - INFO -  get_expenses is called for 2024-08-01
+2025-08-01 00:07:03,850 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
+2025-08-01 00:09:16,358 - server - INFO -  get_expenses is called for 2024-08-01
+2025-08-01 00:09:16,359 - db_helper - INFO - fetch_expense_by_date called with 2024-08-01
